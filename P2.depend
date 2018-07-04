@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511920478 source:f:\fatec\materias\algoritmos e lógica de programação\prova\p2\c\p2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
+1530473510 source:f:\minhas coisas\trabalho\portifólio\p2 de algoritmo\p2\c\p2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
